@@ -43,6 +43,7 @@ Ordering: entries are returned in deterministic order (by filename, then line or
 
 Pagination: /logs supports limit and offset (default limit=100, max limit=1000).
 
+
 Endpoints
 
 GET /logs
