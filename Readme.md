@@ -109,6 +109,7 @@ LOG_FILE_GLOB (default: *.log)
 Example:
 
 set LOG_DIR=sample_logs
+
 **py -m uvicorn app.main:app --reload**
 
 Example requests
